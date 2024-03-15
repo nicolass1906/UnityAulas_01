@@ -1,4 +1,6 @@
 tmj
 <<<<<<< HEAD
 VAI CORINTHIANS
+jesus te ama
+=======
 >>>>>>> parent of 50a7183 (alteração do texto)
